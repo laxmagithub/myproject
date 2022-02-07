@@ -1,0 +1,4 @@
+node {
+pipeline 
+  stage "checkout"
+}
